@@ -22,10 +22,6 @@ and now you can run the project with the <code>fdf</code> exec
         
 <hr>        
 
-                E N J O Y !
-
-<hr>
-
 <h2>[What it looks like]</h2>
 
 <p align="center">
