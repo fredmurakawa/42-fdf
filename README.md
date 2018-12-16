@@ -18,7 +18,7 @@ Then just do a simple <code>make</code>
 
 and now you can run the project with the <code>fdf</code> exec
 
-        ./fdf maps/<file>
+        ./fdf maps/42.fdf
         
 <hr>        
 
