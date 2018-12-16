@@ -10,7 +10,7 @@ C Language | Makefile | Bresenham's line algorithm
 
 First of all, you have to clone the project with :
 
-        git clone https://github.com/fbueno-m/42-fdf.git fdf
+        git clone https://github.com/fredmurakawa/42-fdf.git fdf
         
         cd fdf
 
