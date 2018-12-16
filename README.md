@@ -22,7 +22,7 @@ and now you can run the project with the <code>fdf</code> exec
         
 <hr>        
 
-<h2>[What it looks like]</h2>
+<h2>What it looks like</h2>
 
 <p align="center">
   <img src="https://github.com/wickedpool/Fdf-42/blob/master/img/fdf.png" width="90%"/>
