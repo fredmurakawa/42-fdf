@@ -8,7 +8,7 @@ C Language | Makefile | Bresenham's line algorithm
 
 <h2>How to use?</h2>
 
-First of all, you have to clone the project with :
+Clone the project with :
 
         git clone https://github.com/fredmurakawa/42-fdf.git fdf
         
